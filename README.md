@@ -17,9 +17,6 @@ UI/UX enthusiast and clean code advocate. I thrive on building purposeful produc
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TimothyMarcelleon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TimothyMarcelleon&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=TimothyMarcelleon&icon=0&color=9)](https://visitcount.itsvg.in)
 
