@@ -1,21 +1,36 @@
-# 💫 About Me:
-UI/UX enthusiast and clean code advocate. I thrive on building purposeful products that make a real-world impact. My code is a reflection of me: clean, tidy, and never rushed. Let's create something beautiful and meaningful together!
+# Hi, I'm Timothy Marcelleon 👋
 
+**Front-End / Full-Stack Software Engineer** based in **Adelaide, SA, Australia** *(Full Australian Working Rights)*  
+5+ years building resilient, high-traffic web applications, payment systems, and real-time internal platforms with **React, TypeScript, Next.js, and Node.js**.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mothy279) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timothym12) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-marcelleon-160083175/) 
-
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyMarcelleon&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TimothyMarcelleon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Timothy_Marcelleon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-marcelleon-160083175/)
+[![Email](https://img.shields.io/badge/Email-timothy.m121212%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:timothy.m121212@gmail.com)
+[![Portfolio Repo](https://img.shields.io/badge/Portfolio-timothy--portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TimothyMarcelleon/timothy-portfolio)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TimothyMarcelleon&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Engineering Highlights & Scale
+
+- **High-Scale Payments (Tokopedia — 50M+ Users):** Delivered mission-critical payment and risk flows handling **5M+ daily transactions** (10B+ IDR/month) and **50,000+ RPS** peak loads. Shipped a 100% unit-tested TypeScript codebase (~15% fewer production bugs) and pluggable UI components (~20% faster delivery).
+- **Multi-Platform & Real-Time Systems (Xinchuan Management):** Led front-end architecture across 3 production platforms (voucher, SIM, and food ordering) serving **30,000+ users** and **3,000+ daily orders**. Designed and built a real-time **Node.js + Socket.IO** live-chat server bridging mobile apps and internal admin tools.
+- **Digital Banking (Bank BRI – CERIA):** Built end-to-end authentication (OTP, registration, recovery) and core Paylater consumer flows for one of Indonesia's largest banks.
+- **Academic Foundation:** **M.Sc. in Artificial Intelligence** (GPA 3.90, published research in fuzzy logic & decision systems) and **B.Sc. in Artificial Intelligence** (2× national C++ competitive programming finalist).
+
+---
+
+### 🛠️ Technical Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Core Front-End** | TypeScript, JavaScript (ES6+), React, Next.js (App Router), Vue.js, Nuxt, HTML5, CSS3 |
+| **State, UI & Styling** | TanStack React Query, Redux, Tailwind CSS, Ant Design, Framer Motion, Storybook |
+| **Back-End & Real-Time** | Node.js, Socket.IO, GraphQL, REST APIs, SQL / MySQL, ERD & Data Modelling |
+| **Testing, Ops & Cloud** | Jest, Webpack, Vite, New Relic (APM & log analysis), AWS, GCP, Docker, CI/CD, Git |
+
+---
+
+### 💡 What I'm Working On & Open To
+Most of my production commits live in private organization repositories (`xinchuantw`). I'm currently expanding my public engineering case studies and open-source front-end architecture demos.
+
+- 📍 Based in **Adelaide, SA** — open to **Frontend, React, Product Engineer, or Full-Stack roles** in Adelaide, Sydney, Melbourne, or remote across Australia.
+- 📫 Reach me directly at **[timothy.m121212@gmail.com](mailto:timothy.m121212@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/timothy-marcelleon-160083175/)**.
